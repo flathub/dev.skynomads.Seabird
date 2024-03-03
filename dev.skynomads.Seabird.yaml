@@ -43,8 +43,8 @@ modules:
     sources:
       - type: archive
         strip-components: 0
-        url: https://github.com/getseabird/seabird/releases/download/v0.2.1/source.zip
-        sha256: 78f9506b27ecf2dbc1b45e13492511708ab0b8425da21cc0180e6056f9d1689a
+        url: https://github.com/getseabird/seabird/releases/download/v0.2.2/source.zip
+        sha256: 7a98016f46eb11c0641313f65bd927d6b6410ae918583e54098ca7dba997f2a8
         x-checker-data:
           type: json
           url: https://api.github.com/repos/getseabird/seabird/releases/latest
